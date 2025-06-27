@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Acer\source\repos\Lab1\bin\Debug\Lab1.exe
+C:\Users\Acer\source\repos\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Acer\source\repos\Lab1\obj\Debug\Nischal Lab1.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Lab1\obj\Debug\Nischal Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab1\obj\Debug\Lab1.exe
+C:\Users\Acer\source\repos\Lab1\obj\Debug\Lab1.pdb
+C:\Users\hp\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\hp\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\hp\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\hp\Desktop\Lab1\Lab1\obj\Debug\Nischal Lab1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Lab1\Lab1\obj\Debug\Nischal Lab1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\hp\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\hp\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe.config
